@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://osmium-tetroxide.github.io/sitemap.xml
+Sitemap: https://ychnli.github.io/sitemap.xml
